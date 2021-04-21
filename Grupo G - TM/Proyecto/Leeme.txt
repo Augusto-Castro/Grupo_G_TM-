@@ -1,0 +1,48 @@
+Proyecto de Metodología (2021)
+
+GRUPO G
+
+Integrantes:
+
+- Cantos, Pedro Angel
+-Castro Rodriguez, Augusto Gaston 
+-Di Matteo Principe, Tomás Nahuel 
+-Zúñiga, Cristian Fabian
+
+Proyecto: 
+-Aplicacion movil: resumiendo, es un juego de dados en el que tirarás dados de ataque defensa (entre otros), siendo el objetivo reducir a 0 la vida (fichas) del otro jugador 
+antes de que él haga lo mismo contigo.
+
+Reglas del juego Cada ronda presenta 3 fases:
+   
+1: Fase de tirada   
+
+Los jugadores lanzan los dados. 
+Cada cara de los dados tiene un efecto distinto, como ataque, defensa o ganancia de tokens para invocar favores divinos.   
+Al inicio de cada ronda, se lanzaran los dados. Se pueden lanzar hasta 3 veces. Entre una y otra tirada podrás elegir qué dados quieres conservar y cuáles quieres lanzar de nuevo.   
+
+2: Fase de favor divino   
+
+Los jugadores pueden hacer ofrecer fichas para invocar un favor divino. 
+Los favores divinos conceden poderosas bendiciones que pueden influir enormemente en el resultado de una ronda o incluso en el de una partida.
+En esta fase puedes decidir el favor divino que quieres invocar.   
+Los favores divinos se invocan por orden de prioridad. Cuando lo hagas, se entrega una ofrenda que garantiza el efecto.   
+La mayoría de favores divinos se invocan después de que hayan elegido los dos jugadores, antes de la fase de resolución. 
+Pero la descripción del efecto de algunos especifica que se invocarán después de dicha fase de resolución.   
+Si un jugador no tiene la cantidad de fichas necesaria para la ofrenda cuando invoca un favor divino, su efecto no está garantizado. 
+Esto te dará ventaja sobre tu adversario, ¡aprovéchala!   
+
+3: Fase de resolución   
+
+Se enfrentan las caras de los dados tirados por ambos jugadores: 
+se inflige o bloquea daño y se ganan o roban fichas.   
+Se seguirán jugando rondas hasta que un jugador reduzca la salud del otro a 0.   
+En esta fase, los efectos de los dados se resuelven por orden: 
+  
+-Cada dado otorga una ficha.   
+-Las hachas y flechas se resuelven y se aplica su daño no bloqueado.
+El jugador que haya tirado primero en esta ronda también ataca antes.   
+-Cada mano roba 1 ficha del adversario.
+
+
+
