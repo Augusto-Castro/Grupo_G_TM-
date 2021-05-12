@@ -4,7 +4,7 @@ GRUPO G
 
 Integrantes:
 
-- Cantos, Pedro Angel
+-Cantos, Pedro Angel
 
 -Castro Rodriguez, Augusto Gaston
 
